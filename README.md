@@ -1,4 +1,4 @@
-### Hi there 👋
+## I'm learning computer science and am a student at Dobyns Bennet.
 
 <!--
 **Mei606/Mei606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
